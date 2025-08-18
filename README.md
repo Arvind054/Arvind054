@@ -1,4 +1,4 @@
-# 💼 Arvind Choudhary – Resume
+# Arvind Choudhary
 
 Welcome to my resume repository!  
 This repo contains my **latest resume**, portfolio links, and a showcase of my work. 🚀  
