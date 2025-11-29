@@ -1,48 +1,69 @@
-# Arvind Choudhary
+# 🌟 Arvind Choudhary
 
-Welcome to my resume repository!  
-This repo contains my **latest resume**, portfolio links, and a showcase of my work. 🚀  
+🚀 *Full-Stack Developer | AI Engineer | Competitive Programmer*  
+📍 Jaipur, India  
+📧 **arvindchoudhary054@gmail.com** • 📱 **+91 6378652834**
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 3rd Year ECE Undergraduate at **IIIT Trichy**
-- 💻 Passionate about **Web Development, Competitive Programming & AI**
-- 🛠️ Tech Stack: `MERN` | `Next.js` | `AI`| `ML/DL`
-- 🚀 Active participant in **hackathons** and coding competitions
-- 📈 Solved **900+ DSA problems** across LeetCode, Codeforces & CodeChef
+I’m a **3rd-year ECE undergraduate at IIIT Tiruchirappalli**, passionate about building **scalable full-stack systems**, **AI-driven platforms**, and solving complex problems through **DSA & competitive programming**.
+
+I love creating useful products, learning cutting-edge technologies, and participating in hackathons & coding contests.  
+I've solved **1000+ DSA problems** and actively work on AI-driven and full-stack applications.
 
 ---
 
-## 📄 Resume
-📌 [**View my Resume (PDF)**](https://drive.google.com/file/d/1wgCf27FV1wliWIgSK8v4UjgOFxCn28A5/view?usp=drive_link)  
+## 🔗 Links
+- 🌐 **Portfolio:** https://arvindporfoliosite.vercel.app/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/arvind054/
+- 🧑‍💻 **GitHub:** https://github.com/Arvind054
+- 📄 **Resume (PDF):** https://drive.google.com/file/d/1wgCf27FV1wliWIgSK8v4UjgOFxCn28A5/view
+- ✉️ **Email:** arvindchoudhary054@gmail.com
 
 ---
 
-## 🌐 Portfolio & Links
-- 🏗️ [PortFolio](https://arvindporfoliosite.vercel.app/)
-- 📂 [GitHub Profile](https://github.com/Arvind054)
-- 💼 [LinkedIn](https://www.linkedin.com/in/arvind054/)
-- 📧 [Email Me](arvindchoudhary054@gmail.com)
+## 🛠️ Tech Stack
 
----
+```yaml
+Languages:
+  - Python
+  - C/C++
+  - JavaScript
+  - SQL
 
-## 🚀 Projects
-👉 Check out in my [GitHub Repositories](https://github.com/Arvind054).  
+Frontend:
+  - React.js
+  - Next.js
+  - Tailwind CSS
+  - HTML5, CSS3
 
----
+Backend:
+  - Node.js
+  - Express.js
+  - REST APIs
+  - PostgreSQL
+  - MongoDB
+  - JWT Authentication
+
+Tools & Platforms:
+  - Git, Docker, Postman
+  - AWS (EC2, S3)
+  - Vercel
+  - tRPC, Drizzle ORM
+
+AI/ML:
+  - TensorFlow
+  - PyTorch
+  - NLP & LLM-based apps
+```
 
 ## 🏆 Achievements
-- 🥇 Participated in **10+ Hackathons & 200+ Coding Competitions**  
-- 📚 Completed **Data Structures & Algorithms (900+ problems)**  
-- 🌍 Built multiple **AI-driven applications** & **industry-level projects**  
 
----
-
-## ⚡ Tech Stack
-```yaml
-Languages: C++, JavaScript, Python
-Frameworks: React, Next.js, Express
-Databases: MongoDB, MySQL, SQLite
-Tools: Git, Docker, Vercel, Netlify
-AI/ML: TensorFlow, PyTorch, NLP
+- 🥇 **ICPC Asia West Regionalist 2025 (Amritapuri)**
+- 🧩 **LeetCode Knight Badge** — Max Rating **1975**, Top **2% globally**
+- ⚔️ **Codeforces Specialist** — Max Rating **1430**
+- ⭐ **CodeChef 3-Star** — Max Rating **1677**
+- 💡 **Solved 1000+ DSA Problems**
+- 🏆 **IICPC CodeFest 2025** — Rank **1977 / 45,000+ participants**
+- ☁️ **Google Cloud Certifications** (Cloud Fundamentals + Generative AI)
