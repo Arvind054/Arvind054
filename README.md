@@ -27,38 +27,19 @@ I've solved **1000+ DSA problems** and actively build production-grade full-stac
 
 ```yaml
 Languages:
-  - C++
-  - Python
-  - JavaScript
-  - TypeScript
-  - SQL
+  - C++ - Python - JavaScript- TypeScript - SQL
 
 Frontend:
-  - React.js
-  - Next.js
-  - TanStack Query
-  - HTML5, CSS3
+  - React.js - Next.js - TanStack Query - HTML5, CSS3
 
 Backend:
-  - Node.js
-  - Express.js
-  - REST APIs
-  - Redis (Caching & Event Queues)
-  - Background Workers
+  - Node.js - Express.js - REST APIs - Redis (Caching & Event Queues) - Background Workers
 
 Databases & ORM:
-  - PostgreSQL
-  - MongoDB
-  - Drizzle ORM
-  - Supabase
-  - NeonDB
+  - PostgreSQL - MongoDB - Drizzle ORM - Supabase - NeonDB
 
 Tools & Platforms:
-  - Git, GitHub
-  - AWS (EC2)
-  - Vercel
-  - Postman
-  - Agile/Scrum
+  - Git, GitHub - AWS (EC2) - Vercel - Postman- Agile/Scrum
 ```
 
 ---
