@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **3rd-year ECE undergraduate at IIIT Tiruchirappalli** (Class of 2027), passionate about building **scalable full-stack systems**, **AI-powered tools**, and solving complex problems through **DSA & competitive programming**.
+I'm a **Final year ECE undergraduate at IIIT Tiruchirappalli** (Class of 2027), passionate about building **scalable full-stack systems**, **AI-powered tools**, and solving complex problems through **DSA & competitive programming**.
 
 I love creating useful products, learning cutting-edge technologies, and participating in hackathons & coding contests.  
 I've solved **1000+ DSA problems** and actively build production-grade full-stack applications.
@@ -47,7 +47,7 @@ Tools & Platforms:
 ## 🏆 Achievements
 
 - 🥇 **ICPC Asia West Regionalist 2025** — Qualified through regional rounds
-- 🧩 **LeetCode Knight Badge** — Max Rating **2050**, Top **1.5% globally**, **1000+ problems solved**
+- 🧩 **LeetCode Knight Badge** — Max Rating **2075+**, Top **1.5% globally**, **1000+ problems solved**
 - ⚔️ **Codeforces Specialist** — Max Rating **1401**
 - ⭐ **CodeChef 3-Star** — Max Rating **1677**
 - 🏆 **IICPC CodeFest 2026** — Rank **1830 / 13,000+ participants** (multisite offline contest)
